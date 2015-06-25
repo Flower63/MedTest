@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">MedTest</string>
+    <string name="result"/>
+    <string name="ButtonName">Поиск</string>
+</resources>
